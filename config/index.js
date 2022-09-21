@@ -6,12 +6,12 @@ export const config = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "",
+  APP_ID: "wx486f3a5edd978bef",
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "",
+  APP_SECRET: "fdcc3db8e3762f4478efe3ea4194333e",
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -62,9 +62,9 @@ export const config = {
       // 想要发送的人的名字
       name: "老婆",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "gh_1487e2a64d0f",
+      id: "oyu5B52ej_0wE67jjwv3e2depc1U",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "1T4dj0iPpfhT3ijW0LFJwd3kXj4DHqLgYhWCGAUE6kU",
       // 所在省份
       province: "江苏",
       // 所在城市
